@@ -14,7 +14,6 @@
 📬 You can reach me through:
 - 📧 Personal: [rafael09tolentino@gmail.com](mailto:rafael09tolentino@gmail.com)
 - 🎓 Student: [rafaelgerard.tolentino.cics@ust.edu.ph](mailto:rafaelgerard.tolentino.cics@ust.edu.ph)
-![Profile Views](https://komarev.com/ghpvc/?username=rgtoa&label=Profile%20views&color=0e75b6&style=flat)
 
 ---
 

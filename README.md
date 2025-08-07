@@ -1,8 +1,6 @@
 # 👋 Hi, I’m Rafael Tolentino!
 <p align="center">
-  💻 Computer Science Graduate & Developer with a passion for clean design and efficient code.
-  <br/>
-  📍 Based in the Philippines | 🌱 Always learning new tech!
+  🌱 Computer Science Graduate & Junior Developer
 </p>
 
 ## 🛠️ I have experience coding in/with:
@@ -11,7 +9,7 @@
 
 ---
 
-## 📊 GitHub Profile Stats
+## 💻 Contact Details
 
 ![Profile Views](https://komarev.com/ghpvc/?username=rgtoa&label=Profile%20views&color=0e75b6&style=flat)
 
@@ -23,7 +21,7 @@
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=rgtoa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=rgtoa&theme=catppuccin_mocha&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=rgtoa&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=rgtoa&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=rgtoa&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rgtoa&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 

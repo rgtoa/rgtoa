@@ -1,4 +1,9 @@
 # 👋 Hi, I’m Rafael Tolentino!
+<p align="center">
+  💻 Computer Science Graduate & Developer with a passion for clean design and efficient code.
+  <br/>
+  📍 Based in the Philippines | 🌱 Always learning new tech!
+</p>
 
 ## 🛠️ I have experience coding in/with:
 

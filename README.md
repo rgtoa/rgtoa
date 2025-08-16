@@ -2,7 +2,7 @@
 <p align="center">
   🌱 Computer Science Graduate & Junior Developer
 </p>
-
+ 
 ## 🛠️ I have experience coding in/with
 
 <p align="center"> 
